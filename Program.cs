@@ -297,7 +297,7 @@ namespace Assignment_1_DRizzo
 
             try
             {
-                int numOfStones = 5;
+                int numOfStones = n4;
                 int iterations = 1;
 
                 while (numOfStones > 0)
